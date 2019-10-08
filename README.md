@@ -19,4 +19,4 @@
 ![不正確的預約資訊](https://github.com/MingHanChan/line-reserve-bot/blob/master/img/IMG_2157.PNG)
 4. 點選Flex Messages上的訊息來選定預約的時間，若成功預約寫入試算表後，回傳確認訊息給使用者。
 
-在取消預約方面，使用者提出取消預約，系統會找出此註冊帳號已預約的時段，同樣的以Flex Messages訊息回傳讓使用者點選，點選完後若成功則回傳取消成功的訊息![預約確認](https://github.com/MingHanChan/line-reserve-bot/blob/master/img/IMG_2149.PNG)
+在取消預約方面，使用者提出取消預約，系統會找出此註冊帳號已預約的時段，同樣的以Flex Messages訊息回傳讓使用者點選，點選完後若成功則回傳取消成功的訊息![預約確認](https://github.com/MingHanChan/line-reserve-bot/blob/master/img/IMG_2160.PNG)
